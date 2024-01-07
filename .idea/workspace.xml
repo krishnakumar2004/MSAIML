@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="890f450c-4cf5-4def-8fca-e5197e23bc86" name="Changes" comment="module1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module4/OnlineShopCart.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module4/OnlineShopCart.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
