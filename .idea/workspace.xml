@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="890f450c-4cf5-4def-8fca-e5197e23bc86" name="Changes" comment="module1" />
+    <list default="true" id="890f450c-4cf5-4def-8fca-e5197e23bc86" name="Changes" comment="module1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,9 +56,11 @@
     "Python.AdditionOf2Nums.executor": "Run",
     "Python.Discussion.executor": "Run",
     "Python.MultiDiviOf2Nums.executor": "Run",
+    "Python.OnlineShopCart.executor": "Run",
     "Python.Part1total_meal.executor": "Run",
     "Python.Part2_Alarm.executor": "Run",
     "Python.prac01.executor": "Run",
+    "Python.prac02.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
