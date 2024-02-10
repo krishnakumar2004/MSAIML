@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="890f450c-4cf5-4def-8fca-e5197e23bc86" name="Changes" comment="module1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module6/shoppingCart.py" beforeDir="false" afterPath="$PROJECT_DIR$/Module6/shoppingCart.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,20 +64,23 @@
     "Python.Part2_Alarm.executor": "Run",
     "Python.Part2_BookStore.executor": "Run",
     "Python.course_Meetup.executor": "Run",
+    "Python.discusion.executor": "Run",
     "Python.discussion6.executor": "Run",
     "Python.flip.executor": "Run",
+    "Python.lab_excercise.executor": "Run",
     "Python.prac01.executor": "Run",
     "Python.prac02.executor": "Run",
     "Python.shoppingCart.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/github/REPO/MSAIML/Module1",
+    "last_opened_file_path": "C:/github/REPO/MSAIML/Module8",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\github\REPO\MSAIML\Module8" />
       <recent name="C:\github\REPO\MSAIML\Module1" />
     </key>
   </component>
